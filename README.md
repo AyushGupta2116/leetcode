@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AyushGupta2116/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/AyushGupta2116/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AyushGupta2116/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/AyushGupta2116/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/AyushGupta2116/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AyushGupta2116/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/AyushGupta2116/leetcode/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
