@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AyushGupta2116/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/AyushGupta2116/leetcode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/AyushGupta2116/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AyushGupta2116/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AyushGupta2116/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AyushGupta2116/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/AyushGupta2116/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AyushGupta2116/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/AyushGupta2116/leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AyushGupta2116/leetcode/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/AyushGupta2116/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
