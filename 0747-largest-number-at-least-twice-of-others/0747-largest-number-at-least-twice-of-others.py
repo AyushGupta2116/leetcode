@@ -1,6 +1,14 @@
 class Solution(object):
     def dominantIndex(self, nums):
-        maxval = max(nums)
+        
+
+        maxval = nums[0]
+
+        for i in nums:
+            if i > maxval:
+                 maxval = i
+
+
         index = nums.index(maxval)
 
         for i in range(0,len(nums)):
