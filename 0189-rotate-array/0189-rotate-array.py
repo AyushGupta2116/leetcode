@@ -3,13 +3,8 @@ class Solution(object):
         n = len(nums)
         k = k % n
 
-        temp = []
+        nums.reverse()
 
-        for i in range(n - k, n):
-            temp.append(nums[i])
+        nums[:k] = reversed(nums[:k])
 
-        for j in range(n - k - 1, -1, -1):
-            nums[j + k] = nums[j]
-
-        for i in range(k):
-            nums[i] = temp[i]
+        nums[k:] = reversed(nums[k:])
