@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushGupta2116/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/AyushGupta2116/leetcode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/AyushGupta2116/leetcode/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/AyushGupta2116/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/AyushGupta2116/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AyushGupta2116/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AyushGupta2116/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AyushGupta2116/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AyushGupta2116/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AyushGupta2116/leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/AyushGupta2116/leetcode/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/AyushGupta2116/leetcode/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AyushGupta2116/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushGupta2116/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AyushGupta2116/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/AyushGupta2116/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AyushGupta2116/leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/AyushGupta2116/leetcode/tree/master/0189-rotate-array) |
 | [0504-base-7](https://github.com/AyushGupta2116/leetcode/tree/master/0504-base-7) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushGupta2116/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
