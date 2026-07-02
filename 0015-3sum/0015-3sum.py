@@ -1,22 +1,35 @@
+
 class Solution:
+
     def threeSum(self, arr):
         n = len(arr)
-        ans = set()
-        result = []
+        arr.sort()
+        ans = []
 
         for i in range(n):
-            hashset = set()
+            # Skip duplicates for first element
+            if i > 0 and arr[i] == arr[i - 1]:
+                continue
 
-            for j in range(i + 1, n):
-                third = -(arr[i] + arr[j])
+            left, right = i + 1, n - 1
 
-                if third in hashset:
-                    triplet = tuple(sorted([arr[i], arr[j], third]))
-                    ans.add(triplet)
+            
+            while left < right:
+                total = arr[i] + arr[left] + arr[right]
 
-                hashset.add(arr[j])
+                if total == 0:
+                    ans.append([arr[i], arr[left], arr[right]])
+                    left += 1
+                    right -= 1
 
-        for triplet in ans:
-            result.append(list(triplet))
+                    while left < right and arr[left] == arr[left - 1]:
+                        left += 1
+                    
+                    while left < right and arr[right] == arr[right + 1]:
+                        right -= 1
 
-        return result
+                elif total < 0:
+                    left += 1
+                else:
+                    right -= 1
+        return ans
