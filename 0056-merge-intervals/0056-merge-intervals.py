@@ -1,27 +1,24 @@
 class Solution(object):
-    def merge(self, nums):
-        n = len(nums)
-        nums.sort()
+    def merge(self, arr):
+
+        arr.sort()
 
         ans = []
-        last = -1
 
-        for i in range(n):
+        for i in range(len(arr)):
 
-            if i <= last:
-                continue
+            start = arr[i][0]
+            end = arr[i][1]
 
-            start = nums[i][0]
-            end = nums[i][1]
+            if len(ans) == 0:
+                ans.append([start, end])
 
-            for j in range(i + 1, n):
+            else:
 
-                if nums[j][0] <= end:
-                    end = max(end, nums[j][1])
-                    last = j
+                if start <= ans[-1][1]:
+                    ans[-1][1] = max(ans[-1][1], end)
+
                 else:
-                    break
-
-            ans.append([start, end])
+                    ans.append([start, end])
 
         return ans
