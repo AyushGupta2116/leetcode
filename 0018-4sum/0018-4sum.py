@@ -1,27 +1,33 @@
 class Solution:
     def fourSum(self, arr, target):
         n = len(arr)
-
-        ans = set()
-        result = []
+        arr.sort()
+        ans = []
 
         for i in range(n):
+            if i > 0 and arr[i] == arr[i - 1]:
+                continue
 
             for j in range(i + 1, n):
+                if j > i + 1 and arr[j] == arr[j - 1]:
+                    continue
 
-                hashset = set()
+                k, l = j + 1, n - 1
+                while k < l:
+                    sum = arr[i] + arr[j] + arr[l] + arr[k]
 
-                for k in range(j + 1, n):
+                    if sum == target:
+                        ans.append([arr[i], arr[j], arr[k], arr[l]])
 
-                    fourth = target - (arr[i] + arr[j] + arr[k])
+                        while k < l and arr[k] == arr[k + 1]:
+                           k += 1
+                        while j < l and arr[l] == arr[l - 1]:
+                           l -= 1
 
-                    if fourth in hashset:
-                        quad = tuple(sorted([arr[i], arr[j], arr[k], fourth]))
-                        ans.add(quad)
-
-                    hashset.add(arr[k])
-
-        for x in ans:
-            result.append(list(x))
-
-        return result
+                        k += 1
+                        l -= 1
+                    elif sum < target:
+                        k += 1
+                    else:
+                        l -= 1
+        return ans
