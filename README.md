@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyushGupta2116/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/AyushGupta2116/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/AyushGupta2116/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AyushGupta2116/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushGupta2116/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AyushGupta2116/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/AyushGupta2116/leetcode/tree/master/0035-search-insert-position) |
 ## Sorting
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AyushGupta2116/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AyushGupta2116/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AyushGupta2116/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AyushGupta2116/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
