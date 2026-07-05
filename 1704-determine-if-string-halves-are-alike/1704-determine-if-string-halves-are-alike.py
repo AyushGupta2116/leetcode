@@ -14,4 +14,7 @@ class Solution(object):
             if s[i] in vowels:
                 count2 += 1
 
-        return count1 == count2
+        if count1 == count2:
+            return True
+        else:
+            return False
