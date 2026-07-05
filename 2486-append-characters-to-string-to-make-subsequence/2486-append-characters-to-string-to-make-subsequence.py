@@ -1,18 +1,16 @@
 class Solution(object):
     def appendCharacters(self, s, t):
-        m = len(s)
-        n = len(t)
-        i =0 
-        j =0
+        j = 0
+        m = len(t)
+        for i in s:
+            if i == t[j]:
+                j += 1
+                if j == m:
+                    return 0
+        return m - j
+        
 
-        while(i<m and j<n):
-            if s[i] == t[j]:
-                i+=1
-                j+=1
-            else:
-                i+=1
 
-        return n-j
 
 
         
