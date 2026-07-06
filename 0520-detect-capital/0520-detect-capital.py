@@ -1,5 +1,11 @@
 class Solution(object):
     def detectCapitalUse(self, word):
-
-        return word.isupper() or word.islower() or word.istitle()
-
+        if word.istitle():
+            return True
+        elif word.islower():
+            return True
+        elif word.isupper():
+            return True
+        else:
+            return False
+        
