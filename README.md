@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AyushGupta2116/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AyushGupta2116/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/AyushGupta2116/leetcode/tree/master/0896-monotonic-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AyushGupta2116/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushGupta2116/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/AyushGupta2116/leetcode/tree/master/1470-shuffle-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushGupta2116/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/AyushGupta2116/leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/AyushGupta2116/leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/AyushGupta2116/leetcode/tree/master/0709-to-lower-case) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AyushGupta2116/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/AyushGupta2116/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/AyushGupta2116/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AyushGupta2116/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
