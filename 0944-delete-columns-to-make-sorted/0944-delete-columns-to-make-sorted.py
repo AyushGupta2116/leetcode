@@ -1,10 +1,8 @@
 class Solution(object):
     def minDeletionSize(self, strs):
-        n = len(strs)
-        k = len(strs[0])
         count =0
-        for i in range(k):
-            for j in range(1,n):
+        for i in range(len(strs[0])):
+            for j in range(1,len(strs)):
                 if strs[j][i]<strs[j-1][i]:
                     count +=1
                     break
