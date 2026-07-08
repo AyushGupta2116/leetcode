@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AyushGupta2116/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushGupta2116/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AyushGupta2116/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2938-separate-black-and-white-balls](https://github.com/AyushGupta2116/leetcode/tree/master/2938-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AyushGupta2116/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyushGupta2116/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AyushGupta2116/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2938-separate-black-and-white-balls](https://github.com/AyushGupta2116/leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/AyushGupta2116/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3340-check-balanced-string](https://github.com/AyushGupta2116/leetcode/tree/master/3340-check-balanced-string) |
 ## Dynamic Programming
@@ -175,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AyushGupta2116/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2938-separate-black-and-white-balls](https://github.com/AyushGupta2116/leetcode/tree/master/2938-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
