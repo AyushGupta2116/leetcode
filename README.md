@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AyushGupta2116/leetcode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/AyushGupta2116/leetcode/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AyushGupta2116/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [2785-sort-vowels-in-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AyushGupta2116/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyushGupta2116/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AyushGupta2116/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2785-sort-vowels-in-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/AyushGupta2116/leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/AyushGupta2116/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3340-check-balanced-string](https://github.com/AyushGupta2116/leetcode/tree/master/3340-check-balanced-string) |
