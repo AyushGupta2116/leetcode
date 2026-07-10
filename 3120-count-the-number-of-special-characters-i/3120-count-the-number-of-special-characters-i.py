@@ -1,12 +1,12 @@
 class Solution(object):
     def numberOfSpecialChars(self, s):
-        s = list(set(s))      
+        st = set(s)
         count = 0
+        m = "abcdefghijklmnopqrstuvwxyz"
 
-        for i in range(len(s)):
-            for j in range(i + 1, len(s)):
-                if abs(ord(s[i]) - ord(s[j])) == 32:
-                    count += 1
+        for i in m:
+            if i in st and i.upper() in st:
+                count += 1
 
         return count
 
