@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/AyushGupta2116/leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/AyushGupta2116/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3110-score-of-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/AyushGupta2116/leetcode/tree/master/3340-check-balanced-string) |
 ## Dynamic Programming
 |  |
