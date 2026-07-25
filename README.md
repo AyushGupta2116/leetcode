@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyushGupta2116/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AyushGupta2116/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AyushGupta2116/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2938-separate-black-and-white-balls](https://github.com/AyushGupta2116/leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/AyushGupta2116/leetcode/tree/master/2942-find-words-containing-character) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/AyushGupta2116/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
