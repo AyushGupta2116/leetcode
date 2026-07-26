@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AyushGupta2116/leetcode/tree/master/0567-permutation-in-string) |
 | [0859-buddy-strings](https://github.com/AyushGupta2116/leetcode/tree/master/0859-buddy-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AyushGupta2116/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2947-count-beautiful-substrings-i](https://github.com/AyushGupta2116/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AyushGupta2116/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushGupta2116/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/AyushGupta2116/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/AyushGupta2116/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
+| [2947-count-beautiful-substrings-i](https://github.com/AyushGupta2116/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/AyushGupta2116/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3536-maximum-product-of-two-digits](https://github.com/AyushGupta2116/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushGupta2116/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AyushGupta2116/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2938-separate-black-and-white-balls](https://github.com/AyushGupta2116/leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/AyushGupta2116/leetcode/tree/master/2942-find-words-containing-character) |
+| [2947-count-beautiful-substrings-i](https://github.com/AyushGupta2116/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/AyushGupta2116/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3110-score-of-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AyushGupta2116/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -204,4 +207,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AyushGupta2116/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/AyushGupta2116/leetcode/tree/master/2938-separate-black-and-white-balls) |
+## Enumeration
+|  |
+| ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/AyushGupta2116/leetcode/tree/master/2947-count-beautiful-substrings-i) |
+## Number Theory
+|  |
+| ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/AyushGupta2116/leetcode/tree/master/2947-count-beautiful-substrings-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/AyushGupta2116/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 <!---LeetCode Topics End-->
