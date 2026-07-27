@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/AyushGupta2116/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AyushGupta2116/leetcode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/AyushGupta2116/leetcode/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AyushGupta2116/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/AyushGupta2116/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AyushGupta2116/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/AyushGupta2116/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AyushGupta2116/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/AyushGupta2116/leetcode/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyushGupta2116/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AyushGupta2116/leetcode/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AyushGupta2116/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0844-backspace-string-compare](https://github.com/AyushGupta2116/leetcode/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyushGupta2116/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushGupta2116/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3701-compute-alternating-sum](https://github.com/AyushGupta2116/leetcode/tree/master/3701-compute-alternating-sum) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AyushGupta2116/leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AyushGupta2116/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0709-to-lower-case](https://github.com/AyushGupta2116/leetcode/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/AyushGupta2116/leetcode/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/AyushGupta2116/leetcode/tree/master/0859-buddy-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AyushGupta2116/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/AyushGupta2116/leetcode/tree/master/1108-defanging-an-ip-address) |
