@@ -1,0 +1,18 @@
+class Solution(object):
+    def minimumPushes(self, word):
+        freq = [0] * 26
+
+        for i in word:
+            freq[ord(i) - ord('a')] += 1
+
+        freq.sort(reverse=True)
+
+        ans = 0
+
+        for i in range(26):
+            if freq[i] == 0:
+                break
+            ans += freq[i] * ((i // 8) + 1)
+
+        return ans
+        
