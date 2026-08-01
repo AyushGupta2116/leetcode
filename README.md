@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AyushGupta2116/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AyushGupta2116/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/AyushGupta2116/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AyushGupta2116/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AyushGupta2116/leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/AyushGupta2116/leetcode/tree/master/0844-backspace-string-compare) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AyushGupta2116/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/AyushGupta2116/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AyushGupta2116/leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/AyushGupta2116/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/AyushGupta2116/leetcode/tree/master/0504-base-7) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/AyushGupta2116/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushGupta2116/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/AyushGupta2116/leetcode/tree/master/0392-is-subsequence) |
 ## Matrix
 |  |
 | ------- |
