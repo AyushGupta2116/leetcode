@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/AyushGupta2116/leetcode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/AyushGupta2116/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/AyushGupta2116/leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/AyushGupta2116/leetcode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/AyushGupta2116/leetcode/tree/master/0551-student-attendance-record-i) |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AyushGupta2116/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/AyushGupta2116/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
