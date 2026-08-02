@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/AyushGupta2116/leetcode/tree/master/0504-base-7) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AyushGupta2116/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushGupta2116/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1154-day-of-the-year](https://github.com/AyushGupta2116/leetcode/tree/master/1154-day-of-the-year) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushGupta2116/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/AyushGupta2116/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/AyushGupta2116/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushGupta2116/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AyushGupta2116/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/AyushGupta2116/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1154-day-of-the-year](https://github.com/AyushGupta2116/leetcode/tree/master/1154-day-of-the-year) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/AyushGupta2116/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AyushGupta2116/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/AyushGupta2116/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
