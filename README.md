@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/AyushGupta2116/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/AyushGupta2116/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/AyushGupta2116/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/AyushGupta2116/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/AyushGupta2116/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushGupta2116/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AyushGupta2116/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/AyushGupta2116/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/AyushGupta2116/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/AyushGupta2116/leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushGupta2116/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/AyushGupta2116/leetcode/tree/master/0735-asteroid-collision) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AyushGupta2116/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AyushGupta2116/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/AyushGupta2116/leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/AyushGupta2116/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0496-next-greater-element-i](https://github.com/AyushGupta2116/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/AyushGupta2116/leetcode/tree/master/0567-permutation-in-string) |
 | [0859-buddy-strings](https://github.com/AyushGupta2116/leetcode/tree/master/0859-buddy-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AyushGupta2116/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/AyushGupta2116/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AyushGupta2116/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
