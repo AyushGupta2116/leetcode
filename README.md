@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushGupta2116/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2942-find-words-containing-character](https://github.com/AyushGupta2116/leetcode/tree/master/2942-find-words-containing-character) |
 | [3701-compute-alternating-sum](https://github.com/AyushGupta2116/leetcode/tree/master/3701-compute-alternating-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AyushGupta2116/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AyushGupta2116/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushGupta2116/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AyushGupta2116/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AyushGupta2116/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AyushGupta2116/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AyushGupta2116/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
