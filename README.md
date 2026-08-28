@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/AyushGupta2116/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyushGupta2116/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AyushGupta2116/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AyushGupta2116/leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/AyushGupta2116/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushGupta2116/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2942-find-words-containing-character](https://github.com/AyushGupta2116/leetcode/tree/master/2942-find-words-containing-character) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AyushGupta2116/leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3701-compute-alternating-sum](https://github.com/AyushGupta2116/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushGupta2116/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AyushGupta2116/leetcode/tree/master/3731-find-missing-elements) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushGupta2116/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AyushGupta2116/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AyushGupta2116/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AyushGupta2116/leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushGupta2116/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AyushGupta2116/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/AyushGupta2116/leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushGupta2116/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushGupta2116/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AyushGupta2116/leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Enumeration
 |  |
 | ------- |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AyushGupta2116/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/AyushGupta2116/leetcode/tree/master/0739-daily-temperatures) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AyushGupta2116/leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
 | ------- |
