@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/AyushGupta2116/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyushGupta2116/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AyushGupta2116/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3174-clear-digits](https://github.com/AyushGupta2116/leetcode/tree/master/3174-clear-digits) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AyushGupta2116/leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/AyushGupta2116/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyushGupta2116/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushGupta2116/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3174-clear-digits](https://github.com/AyushGupta2116/leetcode/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/AyushGupta2116/leetcode/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/AyushGupta2116/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3110-score-of-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AyushGupta2116/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3174-clear-digits](https://github.com/AyushGupta2116/leetcode/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/AyushGupta2116/leetcode/tree/master/3340-check-balanced-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AyushGupta2116/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AyushGupta2116/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
