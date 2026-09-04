@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/AyushGupta2116/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyushGupta2116/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AyushGupta2116/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2390-removing-stars-from-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/AyushGupta2116/leetcode/tree/master/3174-clear-digits) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AyushGupta2116/leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/AyushGupta2116/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyushGupta2116/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushGupta2116/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/AyushGupta2116/leetcode/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/AyushGupta2116/leetcode/tree/master/3701-compute-alternating-sum) |
 ## String
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyushGupta2116/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/AyushGupta2116/leetcode/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AyushGupta2116/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2390-removing-stars-from-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AyushGupta2116/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AyushGupta2116/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
