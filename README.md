@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AyushGupta2116/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/AyushGupta2116/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushGupta2116/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/AyushGupta2116/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushGupta2116/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AyushGupta2116/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AyushGupta2116/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/AyushGupta2116/leetcode/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushGupta2116/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AyushGupta2116/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/AyushGupta2116/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushGupta2116/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/AyushGupta2116/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/AyushGupta2116/leetcode/tree/master/1154-day-of-the-year) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AyushGupta2116/leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/AyushGupta2116/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AyushGupta2116/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Game Theory
 |  |
