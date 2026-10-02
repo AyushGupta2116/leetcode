@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AyushGupta2116/leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/AyushGupta2116/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AyushGupta2116/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/AyushGupta2116/leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/AyushGupta2116/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AyushGupta2116/leetcode/tree/master/0125-valid-palindrome) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AyushGupta2116/leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AyushGupta2116/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/AyushGupta2116/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushGupta2116/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AyushGupta2116/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AyushGupta2116/leetcode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/AyushGupta2116/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AyushGupta2116/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AyushGupta2116/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AyushGupta2116/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AyushGupta2116/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
