@@ -1,39 +1,28 @@
 class Solution(object):
     def generateParenthesis(self, n):
+
         result = []
-        curr = []
 
-        def valid():
-            count = 0
+        def solve(curr, open, close):
 
-            for i in curr:
-                if i == '(':
-                    count += 1
-                else:
-                    count -= 1
-
-                if count < 0:
-                    return False
-
-            return count == 0
-
-        def solve():
             if len(curr) == 2 * n:
-                if valid():
-                    result.append("".join(curr))
+                result.append("".join(curr))
                 return
 
-            curr.append("(")
-            solve()
-            curr.pop()
+            if open < n:
+                curr.append("(")
+                solve(curr, open + 1, close)
+                curr.pop()
 
-            curr.append(")")
-            solve()
-            curr.pop()
+           
+            if close < open:
+                curr.append(")")
+                solve(curr, open, close + 1)
+                curr.pop()
 
-        solve()
+        curr = []
+        solve(curr, 0, 0)
 
         return result
-
         
         
