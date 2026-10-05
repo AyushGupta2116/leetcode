@@ -409,11 +409,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AyushGupta2116/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/AyushGupta2116/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AyushGupta2116/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AyushGupta2116/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/AyushGupta2116/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AyushGupta2116/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AyushGupta2116/leetcode/tree/master/0877-stone-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AyushGupta2116/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
