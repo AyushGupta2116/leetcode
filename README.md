@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/AyushGupta2116/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AyushGupta2116/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AyushGupta2116/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AyushGupta2116/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/AyushGupta2116/leetcode/tree/master/2942-find-words-containing-character) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AyushGupta2116/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AyushGupta2116/leetcode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/AyushGupta2116/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AyushGupta2116/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2947-count-beautiful-substrings-i](https://github.com/AyushGupta2116/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AyushGupta2116/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
