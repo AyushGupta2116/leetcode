@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/AyushGupta2116/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/AyushGupta2116/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1927-sum-game](https://github.com/AyushGupta2116/leetcode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/AyushGupta2116/leetcode/tree/master/2409-count-days-spent-together) |
 | [2947-count-beautiful-substrings-i](https://github.com/AyushGupta2116/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushGupta2116/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/AyushGupta2116/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AyushGupta2116/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/AyushGupta2116/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/AyushGupta2116/leetcode/tree/master/2409-count-days-spent-together) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AyushGupta2116/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/AyushGupta2116/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/2785-sort-vowels-in-a-string) |
