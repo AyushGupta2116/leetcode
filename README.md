@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/AyushGupta2116/leetcode/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AyushGupta2116/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/AyushGupta2116/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/AyushGupta2116/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2390-removing-stars-from-a-string](https://github.com/AyushGupta2116/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/AyushGupta2116/leetcode/tree/master/2409-count-days-spent-together) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AyushGupta2116/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushGupta2116/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/AyushGupta2116/leetcode/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AyushGupta2116/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/AyushGupta2116/leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AyushGupta2116/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/AyushGupta2116/leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AyushGupta2116/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
