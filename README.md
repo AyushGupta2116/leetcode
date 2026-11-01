@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AyushGupta2116/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AyushGupta2116/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/AyushGupta2116/leetcode/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AyushGupta2116/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/AyushGupta2116/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AyushGupta2116/leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushGupta2116/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AyushGupta2116/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushGupta2116/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AyushGupta2116/leetcode/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AyushGupta2116/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/AyushGupta2116/leetcode/tree/master/0504-base-7) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AyushGupta2116/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushGupta2116/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
