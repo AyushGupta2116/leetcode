@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AyushGupta2116/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/AyushGupta2116/leetcode/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AyushGupta2116/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AyushGupta2116/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/AyushGupta2116/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AyushGupta2116/leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushGupta2116/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushGupta2116/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AyushGupta2116/leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AyushGupta2116/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AyushGupta2116/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/AyushGupta2116/leetcode/tree/master/0504-base-7) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AyushGupta2116/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushGupta2116/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AyushGupta2116/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AyushGupta2116/leetcode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/AyushGupta2116/leetcode/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AyushGupta2116/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushGupta2116/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AyushGupta2116/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AyushGupta2116/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
